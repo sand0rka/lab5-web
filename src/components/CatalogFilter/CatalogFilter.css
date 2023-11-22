@@ -1,0 +1,9 @@
+.inner {
+  display: flex;
+  margin-bottom: 1.4vw;
+  margin-top: 1.4vw;
+  align-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}

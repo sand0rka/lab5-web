@@ -1,0 +1,10 @@
+.select-sort {
+  margin: 0 auto;
+  height: 24px;
+  font-weight: bold;
+  width: 10rem;
+  text-align: center;
+}
+option {
+  font-weight: bold;
+}
