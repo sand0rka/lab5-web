@@ -1,0 +1,7 @@
+.input {
+  display: flex;
+  gap: 25px;
+}
+.price-label {
+  font-weight: bold;
+}

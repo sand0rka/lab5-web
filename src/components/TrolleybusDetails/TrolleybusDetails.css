@@ -1,0 +1,42 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 25%;
+  height: 25%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+.modal-buttons {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.modal-buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.modal-buttons button:first-child {
+  background: #ccc;
+}
+
+.modal-buttons button:last-child {
+  background: #00cc00;
+  color: #fff;
+  border: none;
+}
+
+.modal-buttons button:hover {
+  background: #666;
+  color: #fff;
+}
